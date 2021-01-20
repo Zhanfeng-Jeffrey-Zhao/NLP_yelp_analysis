@@ -1,4 +1,4 @@
-# This is an analysis of the Yelp Reviews Dataset. The analysis includes three parts.
+# .The yelp reviews analysis includes three parts.
 
 ## Data explore: 
 
